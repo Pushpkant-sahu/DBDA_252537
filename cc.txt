@@ -1,0 +1,1 @@
+cloud computing is to work on web remptely,example is aws and it provides many services like ec2 bucket etc.
